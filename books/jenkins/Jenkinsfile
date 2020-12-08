@@ -12,8 +12,8 @@ pipeline {
 
     environment {
         //TODO: Edit these vars as per your env
-        DEV_PROJECT = "akabachkov-books-dev"
-        STAGE_PROJECT = "akabachkov-books-stage"
+        DEV_PROJECT = "a-kabachkov-books-dev"
+        STAGE_PROJECT = "a-kabachkov-books-stage"
         APP_GIT_URL = "https://github.com/akabachkov/DO288-apps"
         NEXUS_SERVER = "http://nexus-common.apps.eu45.prod.nextcle.com/repository/nodejs"
 
